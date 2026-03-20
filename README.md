@@ -6,4 +6,4 @@ A bootstrap based simple Wordpress theme. The following items can be customized:
   <li>Header/footer social links (FB & linkedin only)</li>
   <li>Footer menus</li>
 </ul>
-Downlaod the theme from the repo's release section.
+Download the theme from the repo's release section.
