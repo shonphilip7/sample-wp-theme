@@ -7,5 +7,6 @@ A bootstrap based simple Wordpress theme. The following items can be customized:
   <li>Footer menus</li>
   <li>Header/footer background colors</li>
   <li>Hero image</li>
+  <li>Homepage sections</li>
 </ul>
 Download the theme from the repo's release section.
